@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+    <reporter-output>
+    </reporter-output>
+    <suite name="Default Suite" duration-ms="17605" started-at="2022-11-25T13:38:20Z"
+           finished-at="2022-11-25T13:38:37Z">
+        <groups>
+        </groups>
+        <test name="ATExam" duration-ms="17605" started-at="2022-11-25T13:38:20Z" finished-at="2022-11-25T13:38:37Z">
+            <class name="automationTestingExam.VerifyElementVisibility">
+                <test-method status="PASS"
+                             signature="browserLaunch()[pri:0, instance:automationTestingExam.VerifyElementVisibility@3fb6a447]"
+                             name="browserLaunch" is-config="true" duration-ms="5544" started-at="2022-11-25T13:38:20Z"
+                             finished-at="2022-11-25T13:38:25Z">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- browserLaunch -->
+                <test-method status="PASS"
+                             signature="navigate()[pri:0, instance:automationTestingExam.VerifyElementVisibility@3fb6a447]"
+                             name="navigate" is-config="true" duration-ms="4090" started-at="2022-11-25T13:38:25Z"
+                             finished-at="2022-11-25T13:38:29Z">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- navigate -->
+                <test-method status="PASS"
+                             signature="isBuyNowDisplayed()[pri:0, instance:automationTestingExam.VerifyElementVisibility@3fb6a447]"
+                             name="isBuyNowDisplayed" duration-ms="5319" started-at="2022-11-25T13:38:29Z"
+                             finished-at="2022-11-25T13:38:34Z">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- isBuyNowDisplayed -->
+                <test-method status="PASS"
+                             signature="returnToHome()[pri:0, instance:automationTestingExam.VerifyElementVisibility@3fb6a447]"
+                             name="returnToHome" is-config="true" duration-ms="2413" started-at="2022-11-25T13:38:34Z"
+                             finished-at="2022-11-25T13:38:37Z">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- returnToHome -->
+                <test-method status="PASS"
+                             signature="closeTab()[pri:0, instance:automationTestingExam.VerifyElementVisibility@3fb6a447]"
+                             name="closeTab" is-config="true" duration-ms="222" started-at="2022-11-25T13:38:37Z"
+                             finished-at="2022-11-25T13:38:37Z">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- closeTab -->
+                <test-method status="PASS"
+                             signature="quitBrowser()[pri:0, instance:automationTestingExam.VerifyElementVisibility@3fb6a447]"
+                             name="quitBrowser" is-config="true" duration-ms="180" started-at="2022-11-25T13:38:37Z"
+                             finished-at="2022-11-25T13:38:37Z">
+                    <reporter-output>
+                    </reporter-output>
+                </test-method> <!-- quitBrowser -->
+            </class> <!-- automationTestingExam.VerifyElementVisibility -->
+        </test> <!-- ATExam -->
+    </suite> <!-- Default Suite -->
+</testng-results>
