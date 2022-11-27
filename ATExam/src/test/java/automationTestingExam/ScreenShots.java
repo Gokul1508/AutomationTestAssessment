@@ -27,7 +27,7 @@ public class ScreenShots {
     public void takeScreenshot() throws IOException {
         TakesScreenshot ts = (TakesScreenshot) driver;
         File source = ts.getScreenshotAs(OutputType.FILE);
-        File dest = new File("~/screenshot1.jpeg");
+        File dest = new File("/Users/gokul/Desktop/screenshot1.jpeg");
         FileUtils.copyFile(source, dest);
     }
 }
